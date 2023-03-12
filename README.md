@@ -1,5 +1,5 @@
 # NEBULA NUKER
-Nebula nuker - Created by 01tro#4444 and 0tro#6666
+Nebula nuker - Created by baccdoe#9611
 
 ---
 
@@ -8,8 +8,7 @@ Dont be a skid
 ---
 
 ### CREDITS
-01tro#4444
-0tro#6666
+baccdoe#9611
 ---
 
 #### INSTRUCTIONS
